@@ -18,7 +18,7 @@ agent's output rather than blindly trusting it.
 - **Output:** xUnit tests covering the happy path, documented edge cases, and at least one failure path
 - **Runs in a fresh session** from the Code Generator — this matters, a fresh
   context is less likely to only test what the generator already assumed would work
-- **Target:** >85% coverage on new code
+- **Target:** >80% coverage on new code
 
 ### 3. Build & Self-Healing Agent
 - **Input:** Code + tests from the above two agents

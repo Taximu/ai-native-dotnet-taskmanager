@@ -1,6 +1,6 @@
 # CLAUDE.md — AI Development Agent Operating Guide
 
-This file tells AI coding agents (Claude Code, GitHub Copilot, Cursor) how to work
+This file tells AI coding agents (Claude Code, GitHub Copilot, Cursor and other agents) how to work
 on this codebase. Read this before generating any code.
 
 ## Project Context
